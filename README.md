@@ -23,7 +23,7 @@ To get started with this demonstration, follow the instructions below:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/davraops/secret-management-demo.git
+    git clone https://github.com/wonderolabisi/secrets-management.git
     cd secret-management-demo
     ```
 
